@@ -109,7 +109,7 @@ window.onload = function() {
       });
   } else {
     // ถ้าไม่ได้ใช้ Node.js ให้กำหนด LIFF ID ตรงนี้
-    myLiffId = "YOUR_LIFF_ID"; // แทนที่ด้วย LIFF ID ของคุณ
+    myLiffId = "2007057489-peM79G6w"; // แทนที่ด้วย LIFF ID ของคุณ
     initializeLiff(myLiffId);
   }
   
